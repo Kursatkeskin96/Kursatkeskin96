@@ -1,6 +1,6 @@
 # Hi there, I'm Kursat 👋
 
-"Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 I am a self-taught front-end developer with a passion for creating dynamic and engaging user experiences. My expertise lies in HTML, CSS, and JavaScript, and I am currently expanding my skills in React JS. My goal is to become a proficient front-end developer and to continue learning new technologies and techniques to improve my skills.
 
