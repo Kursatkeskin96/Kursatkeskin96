@@ -1,6 +1,12 @@
 # Hi there, I'm Kursat 👋
 
-I am currently learning JavaScript. My goal is to start my career as a Jr. React Developer. I strive to grow and learn something new every day in order to reach my objective.
+"Welcome to my GitHub profile!
+
+I am a self-taught front-end developer with a passion for creating dynamic and engaging user experiences. My expertise lies in HTML, CSS, and JavaScript, and I am currently expanding my skills in React JS. My goal is to become a proficient front-end developer and to continue learning new technologies and techniques to improve my skills.
+
+On my profile, you'll find a variety of projects that showcase my development abilities and my passion for creating clean, efficient code. Feel free to take a look around and leave any feedback or suggestions. I am open to any opportunity to learn and improve my skills.
+
+Thank you for visiting my profile, and I look forward to connecting with other developers in the industry."
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kursatkeskin96&show_icons=true&theme=radical" />
 
@@ -9,6 +15,7 @@ I am currently learning JavaScript. My goal is to start my career as a Jr. React
 <img align="left" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="html" src="https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="html" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <h3 align="left">Connect with me:</h3>
