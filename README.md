@@ -6,7 +6,9 @@ I am a self-taught front-end developer with a passion for creating dynamic and e
 
 On my profile, you'll find a variety of projects that showcase my development abilities and my passion for creating clean, efficient code. Feel free to take a look around and leave any feedback or suggestions. I am open to any opportunity to learn and improve my skills.
 
-Thank you for visiting my profile, and I look forward to connecting with other developers in the industry."
+Thank you for visiting my profile, and I look forward to connecting with other developers in the industry.
+
+https://www.kursatkeskin.com/
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Kursatkeskin96&show_icons=true&theme=radical" />
