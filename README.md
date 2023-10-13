@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a self-taught front-end developer with a passion for creating dynamic and engaging user experiences. My expertise lies in HTML, CSS, and JavaScript, and I am currently expanding my skills in React JS. My goal is to become a proficient front-end developer and to continue learning new technologies and techniques to improve my skills.
+ I'm a front-end developer based in Manchester. My expertise lies in crafting interactive and user-friendly interfaces using React and Next.js. I'm dedicated to staying up-to-date with the latest in the tech world, always eager to learn new technologies and expand my knowledge. This is how I ensure I'm at the forefront of industry trends and bring fresh insights to every project. I take pride in creating responsive, pixel-perfect designs that ensure a seamless user experience across all devices.
 
 On my profile, you'll find a variety of projects that showcase my development abilities and my passion for creating clean, efficient code. Feel free to take a look around and leave any feedback or suggestions. I am open to any opportunity to learn and improve my skills.
 
@@ -22,9 +22,15 @@ https://www.kursatkeskin.com/
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"  />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 <br />
 
